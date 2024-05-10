@@ -1,4 +1,4 @@
-# MSTGRN
+# MATGRN
 Traffic Forecasting
 ## Datasets 
 链接：https://pan.baidu.com/s/1Gqc_ROajn-hsxd87CSvQbQ?pwd=1234 
